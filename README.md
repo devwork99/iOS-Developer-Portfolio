@@ -11,9 +11,9 @@ I am comfortable with MVVM, MVP design pattern. In the past I have used MVC patt
 
 # Projects
 
-## Millenium Estoril Open 2023
+## Millenium Estoril Open
 
-Every year in March there is a tennis event organised in Estoril Portugal. I have developed an app that shows live scores and score history along with player chart and their full details. The app incorporates several activities in the app, e.g scan a qr code located at random spots and user can earn points with that. Those points can be utilized to earn vouchers in the app e.g free dinner at selected resturants, discount on shopping, and even discount at car tyre change. We had this app as a very successful event in 2023 and before that in 2022.
+Every year in March there is a tennis event organised in Estoril Portugal. I have developed an app that shows live scores and score history along with player chart and their full details. The app incorporates several activities in the app, e.g scan a qr code located at random spots and user can earn points with that. Those points can be utilized to earn vouchers in the app e.g free dinner at selected resturants, discount on shopping, and even discount at car tyre change.
 
 Technologies used : MVVM design pattern, Swift 5.x, UIKit, Autolayout, CocoaPods, CoreData, extensive REST apis integration (JSON), user registration with phone number using 3cket apis.
 
